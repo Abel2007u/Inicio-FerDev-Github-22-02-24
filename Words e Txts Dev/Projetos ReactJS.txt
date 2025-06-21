@@ -1,0 +1,120 @@
+Projetos Desenvolvidos em ReactJS.
+
+Contador Regressivo em React JS - Como criar contador do zero!
+https://www.youtube.com/watch?v=S-VKeXG5chE&ab_channel=HAguiar
+
+Como criar um Relógio Digital com React?
+https://www.youtube.com/watch?v=NuNWoibKpxI&t=373s&ab_channel=JulianaRibeiro
+
+Projeto em sala de aula
+How to create a simple counter app with react.js functional component
+https://www.youtube.com/watch?v=Jh1Wo6ZhZm8&ab_channel=WEBDEV4U
+
+
+01. Stopwatch/Count-Up Timer || Learn React Through Mini Projects
+https://www.youtube.com/watch?v=xgFgZBijW7M
+
+02. To Do Board || Learn React Through Mini Projects
+https://www.youtube.com/watch?v=QI0dMh1iFu0
+
+09. React Drag and Drop Using React DnD Library || Learn React Through Mini Projects
+https://www.youtube.com/watch?v=_41E7VD6Ujw
+
+
+How To Make Sign In & Sign Up Form Using React JS | ReactJS Login & Registration Form
+https://www.youtube.com/watch?v=8QgQKRcAUvM
+
+
+Build a Calculator App using React JS | React Beginner Project
+https://www.youtube.com/watch?v=h6lVvsUkdjI
+
+How to Build ToDo List App with React Js | React Js todo app tutorial | Make a React ToDo List App
+https://www.youtube.com/watch?v=NAnrCHMIjO0
+
+Build a Weather App in React JS with OpenWeatherMap API
+https://www.youtube.com/watch?v=Dk0a1DxtydU
+
+Create a React Dashboard | Build React Dashboard from scratch | Build a React Web App
+https://www.youtube.com/watch?v=BBS43OkFT1o
+
+
+Projeto 01 Formulário
+design a simple login form in React js || HTML || CSS
+https://www.youtube.com/watch?v=W1RWa0aU1pE
+
+Projeto 02 Formulário com Validação
+BEST Ways to Handle and Validate React Forms without a Library
+https://www.youtube.com/watch?v=tIdNeoHniEY
+
+Projeto 03 Formulário com Validação
+Registration Form with - React Form Hook()
+https://www.youtube.com/watch?v=FY8sXCsjvf8
+
+Projeto 04 Formulário com Validação
+Sign Up Form Validation Using React in 2022 || Including Custom Hooks
+https://www.youtube.com/watch?v=WvRwiE9IkFg
+
+Projeto 05 Formulário com Validação
+React Forms Handle & Validation Tutorial | React Sign up Form | React Hook Forms for Beginners
+https://www.youtube.com/watch?v=GfWJLK6S1Ec
+
+Projeto 06 Formulário com Validação
+ReactJS Multi-Step Form Tutorial - React Hooks Tutorial
+https://www.youtube.com/watch?v=wOxP4k9f5rk
+
+Projeto 07 Formulário com Validação
+Sistema de Controle de Finanças com React.JS! 🔥
+https://www.youtube.com/watch?v=pj4vA67olbU
+
+Projeto 08 Formulário com Validação
+Sistema de Login com React.JS! 🔥 (Autenticação, Context API, Hooks)
+https://www.youtube.com/watch?v=LjJFu6Y6MrU
+
+Projeto 09 Formulário com Validação
+CRIANDO PROJETO DO ZERO COM REACTJS 🚀
+https://www.youtube.com/watch?v=oy4cbqE1_qc&t=2141s
+
+React JS Personal Portfolio Website | Beginner friendly tutorial
+https://www.youtube.com/watch?v=c79C_S0E4IQ
+
+Build a Weather App in React JS | React JS beginner Tutorial
+https://www.youtube.com/watch?v=GuA0_Z1llYU&t=662s
+
+Projeto 10 Pokemon
+Build A Pokémon Application With React - Tutorial
+https://www.youtube.com/watch?v=o3ZUc7zH8BEz
+
+Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+https://www.youtube.com/watch?v=jx5hdo50a2M
+
+[REACT CONTEXT] O Guia Definitivo
+https://www.youtube.com/watch?v=iHZIZ2wA1U4
+
+Sistema de Controle de Finanças com React.JS! 🔥
+https://www.youtube.com/watch?v=pj4vA67olbU
+
+https://www.youtube.com/watch?v=c79C_S0E4IQ
+https://www.youtube.com/watch?v=7-3N1QdedaA
+https://www.youtube.com/watch?v=cFaihdXLy5A
+https://www.youtube.com/watch?v=Zbg1BHOVzRg
+https://www.youtube.com/watch?v=oy4cbqE1_qc
+https://www.youtube.com/watch?v=nj_nZU9Pwik
+
+
+To do list react.
+
+Reactstrap
+Pegar o seu react e transforma-lo em Reactstrap.
+React Netflix Clone
+https://www.youtube.com/watch?v=tBweoUiMsDg
+
+PRojeto Reactjs
+
+https://www.youtube.com/watch?v=xpHI4q9_MQQ
+
+
+Projeto em ReactJS
+
+CRUD completo em React
+
+https://www.youtube.com/playlist?list=PLvGbhQIuFefYF9WxDLnv3cxeGqnkE1WXs

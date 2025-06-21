@@ -1,0 +1,40 @@
+Curso React: Introdução - #01
+https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&ab_channel=MatheusBattisti-HoradeCodar
+
+Curso de React JS Aula 01 Criar Projeto React JS, Estrutura do Projeto
+https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v&ab_channel=ProfessorEdsonMaia
+
+Aula de Introdução ao React e Primeiro App - Curso de React - Aula 01
+https://www.youtube.com/watch?v=1LhX2u6_BJE&list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC&ab_channel=CFBCursos
+
+Curso de React Para Iniciantes
+https://www.youtube.com/watch?v=hd2B7XQAFls&t=2611s&ab_channel=Programa%C3%A7%C3%A3oWeb
+
+#react [Aula 00] - Curso Completo de React: Do Básico ao Avançado
+https://www.youtube.com/watch?v=pFgApiE6ZmQ&list=PLedVhPP7RyiKOiiGMTMYil3yTEoOxO7CK&ab_channel=Desenvolvendodob%C3%A1sico
+
+PROJETO de React JS para INICIANTES - Faça uma To Do List do zero!
+https://www.youtube.com/watch?v=YVEVrigByKY&ab_channel=MatheusBattisti-HoradeCodar
+
+DEPLOY de projeto em REACT JS com VITE no GITHUB PAGES em 10 MINUTOS
+https://www.youtube.com/watch?v=-weTjP3pYxs&ab_channel=MatheusBattisti-HoradeCodar
+
+REACTJS 2023 #001 BEM-VINDOS A UMA NOVA JORNADA
+https://www.youtube.com/watch?v=ZbCxaaTEkmI&list=PLXik_5Br-zO-JH-3Bxgdj6m0YcHEDeI1e&ab_channel=Jo%C3%A3oRibeiro
+
+Curso de react: Aula 01 - Começando com ReactJS
+https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm&ab_channel=LucasSouzaDev
+
+Curso de React JS para Iniciantes | Como começar no React.JS do ZERO | LIVE #24
+https://www.youtube.com/watch?v=EBtdcSXDCd4&ab_channel=DevClub%7CPrograma%C3%A7%C3%A3o
+
+Aula 0: Setup do Projeto | Full Stack Week - 4ª Edição
+https://www.youtube.com/watch?v=qOkWBQqbT7s&ab_channel=FelipeRocha%E2%80%A2dicasparadevs
+
+O React JS 19 está incrível! Conheça todos os novos recursos do React
+https://www.youtube.com/watch?v=Y8tiDuvmKUg&ab_channel=MatheusBattisti-HoradeCodar
+
+React Hooks: Aprenda os MAIS IMPORTANTES em 50 Minutos!
+https://www.youtube.com/watch?v=MA3Ngo32qiI&ab_channel=FelipeRocha%E2%80%A2dicasparadevs
+
+
