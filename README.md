@@ -1,6 +1,6 @@
 # 📚 Início FerDev: Seu Hub de Conhecimento e Recursos para Desenvolvimento
 
-![Repo Size](https://img.shields.io/github/repo-size/Abel2007u/Inicio-FerDev-Github-22-02-24?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abel2007u/Inicio-FerDev-Github-22-02-24?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abel2007u/Inicio-FerDev-Github-22-02-24?style=for-the-badge)
 
 Bem-vindo(a) ao **Início FerDev**! Este repositório é um compilado de recursos, materiais de estudo e documentações diversas, em formatos como PDFs, Word, apresentações (PPTX) e outros arquivos úteis, todos relacionados ao mundo do desenvolvimento de software. Meu objetivo é centralizar conhecimentos para facilitar o aprendizado contínuo e a consulta rápida.
